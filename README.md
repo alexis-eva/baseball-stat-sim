@@ -8,4 +8,5 @@ To use: Create a file "stats.txt" in the same file location as the code executab
 "stats.txt" should contain a list of players, each on their own line, with values seperated by spaces: Number, last name, position, at bats, batting average (decimal), strikeouts, on bases, and homeruns. For example:
 
 27 Alexis 2B 300 .489 29 140 22
+
 3 Eva SS 152 .379 74 212 5
