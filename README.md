@@ -1,5 +1,5 @@
 # baseball-stat-sim
-C++ program that reads baseball stats from a file, allows the user to update them by simulating baseball innings, and puts the output in a new file.
+C++ program that reads baseball stats from a file, allows the user to update them by recording what happens in baseball innings, and puts the output in a new file.
 
 The program is fixed to read from "stats.txt" and write to "updatedstats.txt".
 
